@@ -2,7 +2,7 @@
   "name": "main",
   "version": "1.0.0",
   "engines": {
-    "npm": "6.x"
+    "node": "14.18.0"
   },
   "description": "",
   "main": "server.js",
